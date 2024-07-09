@@ -1,4 +1,4 @@
-# # LLM-Persona-Cards
+# LLM-Persona-Cards
 
 Creating Persona Cards by leveraging LLMs to analyze text from responses.
 

@@ -1,4 +1,4 @@
-# LLM-Persona-Cards
+# 🃏 LLM-Persona-Cards 🃏
 
 Creating Persona Cards by leveraging LLMs to analyze text from responses.
 
@@ -42,6 +42,7 @@ source .env/bin/activate
 
 ## How to Run
 Here is example code you can write to simply run the system. Your inputs will be recorded through your respective command line. You can refer to '```example.py```' for the exact example used below.
+- This system was developed only for OpenAI, as a proposal for a potential system that could be implemented alongisde of LLMs.
 ```
 from PersonaCard import  LLMProcessor
 import os
